@@ -1,0 +1,7 @@
+/* Tailwind CDN used, but custom styles can go here */
+body {
+  font-family: Arial, sans-serif;
+}
+nav a:hover {
+  text-decoration: underline;
+}
